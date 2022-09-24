@@ -3,7 +3,7 @@
   <img src="https://c.tenor.com/HZlCV-VE6wgAAAAC/brooklyn99-andy-samberg.gif" />
 </div>
 
-### Stuff I Be Typing
+### Stuff I Be Using
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40" />
