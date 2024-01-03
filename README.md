@@ -1,35 +1,55 @@
-### Suuuuup
-<div>
-  <img src="https://i.makeagif.com/media/10-09-2022/rJVMmE.gif" width="650" />
-</div>
-
-### Stuff I Be Using
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
-  </div>
-
-<div align="end">
-  <a href="https://www.linkedin.com/in/maher-abaza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="mailto::maher.abaza@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="36" alt="angularjs logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="36" alt="django logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="36" alt="firefox logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="36" alt="github logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="36" alt="gitlab logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="36" alt="markdown logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="36" alt="neovim logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="36" alt="nestjs logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="36" alt="nuxtjs logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="36" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="36" alt="python logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=white&style=for-the-badge" height="36" alt="reactivex logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="36" alt="sass logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="36" alt="socketio logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="36" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="36" alt="vuejs logo"  />
 </div>
+
+###
+
+<h4 align="center">Profile Visitors</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abaza738/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abaza738&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
