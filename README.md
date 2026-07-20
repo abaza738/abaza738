@@ -18,3 +18,6 @@ Frameworks:
 Other tools:
 
 [![Other](https://skillicons.dev/icons?i=linux,docker,postgres,sqlite,redis,neovim)](https://skillicons.dev)
+
+Also, a happy Nuxter!
+[![abaza738 Nuxter profile](https://nuxters.nuxt.com/_og/r/abaza738.png)](https://nuxters.nuxt.com/abaza738)
